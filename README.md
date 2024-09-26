@@ -1,2 +1,4 @@
 # first-repo
-This is my first repository on github.Author-Pratham Bohra.
+This is my first repository on github.
+<br>
+Author-Pratham Bohra.
